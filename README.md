@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # título 1
 
 Testando um parágrafo
@@ -14,3 +15,7 @@ Testando um parágrafo
 if(nota >6) {
 	printf("Aprovado!");
 }
+=======
+# teste-utfpr
+Repositório de teste da aula de introdução
+>>>>>>> ea2927fecbba69f0baef541b42af070c8406c36b
